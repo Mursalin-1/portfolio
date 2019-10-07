@@ -75,4 +75,15 @@ div.item span{
 }
 
 
-  
+div.contact-area h2{
+    border-bottom: 6px solid #34495e;
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: 700;
+    color:#34495e;   
+    max-width:300px;
+    margin:auto
+}
+div.contact-area p{
+    font-size:18px;
+}
